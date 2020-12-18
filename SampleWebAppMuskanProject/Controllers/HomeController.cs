@@ -15,7 +15,7 @@ namespace SampleWebAppMuskanProject.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Muskan Parlani's page.";
+            ViewBag.Message = "Muskan Parlani's page updated";
 
             return View();
         }
